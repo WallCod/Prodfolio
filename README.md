@@ -7,7 +7,7 @@
 Cada arquivo descreve uma plataforma real, rodando em produção, com stack, arquitetura e funcionalidades detalhadas.
 
 ![Status](https://img.shields.io/badge/Status-Em_Produção-brightgreen?style=flat-square)
-![Apps](https://img.shields.io/badge/Aplicações-3-blue?style=flat-square)
+![Apps](https://img.shields.io/badge/Aplicações-4-blue?style=flat-square)
 ![Author](https://img.shields.io/badge/Autor-WallCod-black?style=flat-square)
 
 </div>
@@ -58,6 +58,21 @@ Plataforma de auditoria SEO, segurança e performance com geração de relatóri
 | 💰 **Monetização** | Asaas integrado · Webhook de confirmação |
 
 → [Ver documentação completa](./AlphaLabs-Audit-Pro.md)
+
+---
+
+### 🍬 [Fiel Doces & Salgados](./Fiel-Doces-e-Salgados.md)
+
+E-commerce completo para venda de doces e salgados artesanais. Catálogo com ImageKit, carrinho persistente, chatbot RAG com Groq/OpenAI, pagamentos via Mercado Pago e Asaas, painel admin e backups automáticos para Google Drive.
+
+| | |
+|---|---|
+| 🛠️ **Stack** | React 19 · TypeScript · Vite · Node.js · Express 5 · MongoDB |
+| ☁️ **Infra** | Render · MongoDB Atlas · ImageKit |
+| 🤖 **Chatbot** | RAG · Groq llama-3.3-70b · Fallback OpenAI · Vector Search |
+| 💳 **Pagamentos** | Mercado Pago (Pix · Boleto) · Asaas (Cartão) |
+
+→ [Ver documentação completa](./Fiel-Doces-e-Salgados.md)
 
 ---
 
